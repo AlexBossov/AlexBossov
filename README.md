@@ -1,4 +1,6 @@
-- 💼 Student at ITMO university
+- 🌱 I’m currently learning ** Java backend stack **
+- 🤔 I’m looking for internship
+- ⚡ Fun fact: food and music are reasons for life
 
 **Languages and Tools:**
 
