@@ -1,5 +1,5 @@
-- 🌱 I’m currently learning ** Java backend stack **
-- 🤔 I’m looking for internship
+- 🌱 I’m currently learning ** Java backend stack and vue.js **
+- 🤔 I’m looking for job
 - ⚡ Fun fact: food and music are reasons for life
 
 **Languages and Tools:**
