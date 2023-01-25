@@ -1,6 +1,6 @@
 - 🌱 I’m currently learning ** Java backend stack **
-- 🤔 I’m looking for job
-- ⚡ Fun fact: food and music are reasons for life
+- 🤔 I’m looking for a job
+- ⚡ Fun fact: food and music are reasons to live
 
 **Languages and Tools:**
 
