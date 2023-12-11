@@ -1,5 +1,5 @@
-- 🌱 I’m currently learning ** Java backend stack **
-- 🤔 I’m looking for a job
+- 🌱 I’m currently learning ** Java\Kotlin backend stack **
+- 🤔 I’m working in Banki.ru
 - ⚡ Fun fact: food and music are reasons to live
 
 **Languages and Tools:**
